@@ -1,0 +1,11 @@
+com\webapp\WebAppApplication.class
+com\webapp\exception\ResourceNotFoundException.class
+com\webapp\repository\RegistrationRepository.class
+com\webapp\dto\ReadRegistrationDto.class
+com\webapp\entity\Registration.class
+com\webapp\controller\RegistrationController.class
+com\webapp\exception\GlobalExceptionHandler.class
+com\webapp\controller\RestRegistratonController.class
+com\webapp\dto\RegistrationDto.class
+com\webapp\util\EmailService.class
+com\webapp\service\RegistrationService.class
